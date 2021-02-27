@@ -1,12 +1,14 @@
 # about-me2
-My name is Andy Schachter. Currently I am a Senior Trust Reporting Analyst for US Bank on the CDO Team. We run compliance and analytics testing as trustee for our clients; issuers of CDOs (Collateralized Loan Obligations)
 
-I'm also currently a candidate for Web Development Certificate in the Stack Education Winter 2021 cohort. I'm looking forward to learning more about full stack development and how it can effect my potential career opportunities
+## Technical Skills ##
 
-##Profiles
+<div>Microsoft Excel, SQL, Microsoft Power Point, currently learning full stack web development predominantly Javascript</div>
 
-[LinkedIn](https://www.linkedin.com/in/andrew-schachter-51632719)
+## For Fun ##
 
-[GitHub](https://github.com/andyschachter)
-
-[Twitter](https://twitter.com/andy_schachter)
+* Playing Sports (ultimate frisbee, soccer, disc golf and everything else in between)
+* Board games
+* Boston professional sports teams
+* Being outdoors as much as possible
+* Reading
+* Exploring the craft beer and restaurant scene everywhere I go
