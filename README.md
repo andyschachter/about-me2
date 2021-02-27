@@ -1,5 +1,20 @@
 # about-me2
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Technical Skills ##
 
 <div>Microsoft Excel, SQL, Microsoft Power Point, currently learning full stack web development predominantly Javascript</div>
